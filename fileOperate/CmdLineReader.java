@@ -8,6 +8,7 @@ import java.util.*;
  * @author rock
  *
  */
+@Deprecated
 public class CmdLineReader {
 	/*
 	 * 单元测试
